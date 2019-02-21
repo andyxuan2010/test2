@@ -6,3 +6,4 @@ hi, it's me
 
 another conflict
 another conflict xxxxx
+add a new one
