@@ -1,0 +1,9 @@
+tes12tEF
+this is from vsc git integration
+this is the 2nd line from vsc
+
+hi, it's me
+
+another conflict
+another conflict xxxxx
+add a new one
